@@ -12,6 +12,8 @@ A browser-based women's health companion for period tracking, symptom journaling
 ![AI](https://img.shields.io/badge/AI-optional%20local%20Ollama-36a58a)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+### [Try the live demo](https://naisha-0607.github.io/HERscope/)
+
 Built for **recHERsion 2026**, the women-only online hackathon by ACM-W, NITK Surathkal (Engineer NITK 2K26).
 Problem Statement: **PS1, Women's Healthcare**
 
@@ -23,9 +25,9 @@ Problem Statement: **PS1, Women's Healthcare**
 
 | Deliverable | Link |
 |---|---|
+| Live website | [https://naisha-0607.github.io/HERscope/](https://naisha-0607.github.io/HERscope/) |
 | GitHub repository | [https://github.com/Naisha-0607/HERscope](https://github.com/Naisha-0607/HERscope) |
 | Demo video (Google Drive) | [Watch the demo](https://drive.google.com/file/d/1e45Pkc3KQrP_6sFe-564zY6wVWzwv1Gb/view?usp=sharing) |
-| Project presentation (Google Drive) | `<ADD_PRESENTATION_LINK>` |
 
 ---
 
@@ -83,15 +85,15 @@ HERscope is designed to help users **understand and prepare**. It does not diagn
 
 | Home dashboard | Period tracker | Symptom journal |
 |---|---|---|
-| ![Home dashboard](assets/home.png) | ![Period tracker](assets/period-tracker.png) | ![Symptom journal](assets/symptom-journal.png) |
+| ![Home dashboard](home.png) | ![Period tracker](period-tracker.png) | ![Symptom journal](symptom-journal.png) |
 
 | Health insights | Visual symptom guide | HERscope AI |
 |---|---|---|
-| ![Health insights](assets/insights.png) | ![Visual symptom guide](assets/visual-guide.png) | ![HERscope AI](assets/ai-chat.png) |
+| ![Health insights](insights.png) | ![Visual symptom guide](visual-guide.png) | ![HERscope AI](ai-chat.png) |
 
 | Health report |
 |---|
-| ![Health report](assets/health-report.png) |
+| ![Health report](health-report.png) |
 
 *Screenshots use sample demo data.*
 
@@ -191,7 +193,7 @@ Click the connection test to verify.
 ```text
 .
 ├── index.html        # Complete single-page application (HTML, CSS, JavaScript)
-├── assets/           # Screenshots used in this README
+├── *.png             # Screenshots used in this README
 ├── LICENSE           # MIT License
 └── README.md         # This file
 ```
@@ -231,11 +233,11 @@ Click the connection test to verify.
 
 ## Team
 
-| Name | Role |
+| Name | Position |
 |---|---|
-| `<Member 1>` | `<Role>` |
-| `<Member 2>` | `<Role>` |
-| `<Member 3>` | `<Role>` |
+| Naisha Kotecha | Team Leader |
+| Pahal Jalan | Member |
+| Brinda M | Member |
 
 ---
 
