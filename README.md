@@ -15,7 +15,12 @@
 
 HERscope is a women's health tracking and education prototype designed to help users record symptoms, view cycle estimates, identify patterns in their own logs, and organise information they may want to discuss with a qualified healthcare professional.
 
+PROTOTYPE:- https://naisha-0607.github.io/HERscope/  
+
+(DOES NOT SUPPORT AI SINCE LOCAL LLM IS USED)
+
 DEMO VIDEO :- https://drive.google.com/file/d/1e45Pkc3KQrP_6sFe-564zY6wVWzwv1Gb/view?usp=sharing
+
 
 ## The problem
 
