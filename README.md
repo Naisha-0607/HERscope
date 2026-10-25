@@ -1,4 +1,4 @@
-<div align="center">
+<img width="954" height="437" alt="image" src="https://github.com/user-attachments/assets/b490bfe5-b22d-4660-85f5-27a6461cc1c2" /><div align="center">
   <h1>HERscope</h1>
   <p><strong>Women's health, on your terms.</strong></p>
   <p>A browser-based women's health companion for period tracking, symptom journaling, health insights, visual references, and optional AI-assisted conversations.</p>
@@ -42,13 +42,13 @@ Features and estimates depend on the data entered by the user. Cycle predictions
 
 ## Screenshots and demo
 
-The feature overview above is a project illustration. Add genuine screenshots of the running prototype here before final submission so reviewers can see the implemented interface.
+![Uploading image.png…]()
 
 | Home dashboard | Period tracker | Symptom journal |
 |---|---|---|
 | `assets/home.png` | `assets/period-tracker.png` | `assets/symptom-journal.png` |
 
-**Demo video:** `ADD_DEMO_VIDEO_LINK`
+**Demo video:** `ADD_DEMO_VIDEO_LINK` 
 
 **Project presentation:** `ADD_PRESENTATION_LINK`
 
