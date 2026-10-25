@@ -12,8 +12,6 @@ A browser-based women's health companion for period tracking, symptom journaling
 ![AI](https://img.shields.io/badge/AI-optional%20local%20Ollama-36a58a)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-### [Try the live demo](https://naisha-0607.github.io/HERscope/)
-
 Built for **recHERsion 2026**, the women-only online hackathon by ACM-W, NITK Surathkal (Engineer NITK 2K26).
 Problem Statement: **PS1, Women's Healthcare**
 
@@ -25,9 +23,9 @@ Problem Statement: **PS1, Women's Healthcare**
 
 | Deliverable | Link |
 |---|---|
-| Live website | [https://naisha-0607.github.io/HERscope/](https://naisha-0607.github.io/HERscope/) |
 | GitHub repository | [https://github.com/Naisha-0607/HERscope](https://github.com/Naisha-0607/HERscope) |
 | Demo video (Google Drive) | [Watch the demo](https://drive.google.com/file/d/1e45Pkc3KQrP_6sFe-564zY6wVWzwv1Gb/view?usp=sharing) |
+| Project presentation (Google Drive) | `<ADD_PRESENTATION_LINK>` |
 
 ---
 
@@ -44,7 +42,8 @@ Problem Statement: **PS1, Women's Healthcare**
 9. [Data and privacy](#data-and-privacy)
 10. [Limitations](#limitations)
 11. [Future scope](#future-scope)
-12. [License and acknowledgements](#license-and-acknowledgements)
+12. [Team](#team)
+13. [License and acknowledgements](#license-and-acknowledgements)
 
 ---
 
@@ -227,6 +226,16 @@ Click the connection test to verify.
 - Multilingual support for wider accessibility in India
 - Screen-reader and accessibility audits
 - Clinician-reviewed symptom and urgency content
+
+---
+
+## Team
+
+| Name | Role |
+|---|---|
+| `<Member 1>` | `<Role>` |
+| `<Member 2>` | `<Role>` |
+| `<Member 3>` | `<Role>` |
 
 ---
 
