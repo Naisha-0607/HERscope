@@ -89,7 +89,7 @@ HERscope is designed to help users **understand and prepare**. It does not diagn
 
 | Health insights | Visual symptom guide | HERscope AI |
 |---|---|---|
-| ![Health insights](insights.png) | ![Visual symptom guide](visual-guide_1.png) | ![HERscope AI](ai-chat.png) |
+| ![Health insights](insights.png) | ![Visual symptom guide](visual-guide.png) | ![HERscope AI](ai-chat.png) |
 
 | Health report |
 |---|
