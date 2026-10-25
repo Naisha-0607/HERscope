@@ -1,0 +1,15 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dependencies/build output (if added later)
+node_modules/
+dist/
+coverage/
+
+# Local test artifacts
+*.log
+.env
+.env.*
+!.env.example
