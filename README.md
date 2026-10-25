@@ -40,19 +40,7 @@ Health symptoms and cycle changes can be difficult to remember and describe over
 
 Features and estimates depend on the data entered by the user. Cycle predictions and AI responses are not medical diagnoses and should not be treated as a substitute for professional care.
 
-## Screenshots and demo
 
-![Uploading image.png…]()
-
-| Home dashboard | Period tracker | Symptom journal |
-|---|---|---|
-| `assets/home.png` | `assets/period-tracker.png` | `assets/symptom-journal.png` |
-
-**Demo video:** `ADD_DEMO_VIDEO_LINK` 
-
-**Project presentation:** `ADD_PRESENTATION_LINK`
-
-Replace the placeholders with working, publicly accessible links before submitting. The recHERsion rulebook requires a GitHub repository, a project presentation, and a demo video.
 
 ## Technology
 
