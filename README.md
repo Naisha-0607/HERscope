@@ -15,9 +15,7 @@
 
 HERscope is a women's health tracking and education prototype designed to help users record symptoms, view cycle estimates, identify patterns in their own logs, and organise information they may want to discuss with a qualified healthcare professional.
 
-The project was built for **recHERsion 2026**, the women-only online hackathon organised by ACM-W, NITK Surathkal, as part of Engineer NITK 2K26.
-
-![HERscope feature overview](assets/feature-overview.svg)
+DEMO VIDEO :- https://drive.google.com/file/d/1e45Pkc3KQrP_6sFe-564zY6wVWzwv1Gb/view?usp=sharing
 
 ## The problem
 
